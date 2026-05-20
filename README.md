@@ -31,7 +31,7 @@ Abaixo estão as ferramentas e linguagens com as quais tive contato no ensino t�
 | Área | Tecnologias e Ferramentas |
 | :--- | :--- |
 | **Frontend** | <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript" /> |
-| **Backend & Dados** | <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=sqlite" /> |
+| **Backend & Dados** | <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php" /> <img src="https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=sqlite" /> |
 | **Ferramentas** | <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/-VS_Code-333333?style=flat-square&logo=visual-studio-code" /> |
 
 ---
