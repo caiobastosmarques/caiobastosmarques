@@ -28,11 +28,11 @@ Estou em busca da minha primeira oportunidade de **estágio** na área de tecnol
 
 Abaixo estão as ferramentas e linguagens com as quais tive contato no ensino técnico e que sigo aprofundando na faculdade:
 
-| Área | Tecnologias |
+| Área | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3 e JavaScript |
-| **Backend & Dados** | Python, PHP e SQL |
-| **Ferramentas** | Git, GitHub e VS Code |
+| **Frontend** | <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript" /> |
+| **Backend & Dados** | <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=sqlite" /> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/-VS_Code-333333?style=flat-square&logo=visual-studio-code" /> |
 
 ---
 
