@@ -1,16 +1,16 @@
 # Caio Henrique Bastos Marques
 
 <p align="left">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-  Técnico em Desenvolvimento de Sistemas
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas (FATEC)</strong><br>
+  Técnico em Desenvolvimento de Sistemas (SENAI)
 </p>
 
 <p align="left">
-  <a href="https://l1nk.dev/linkedin-caio-marques">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/caio-bastosmarques" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:caio.bastosmarques@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -18,41 +18,13 @@
 
 ### 🎯 Perfil Profissional
 
-Profissional em transição para o mercado de tecnologia através da graduação em **Análise e Desenvolvimento de Sistemas (FATEC)** e com base sólida prévia obtida no **Curso Técnico em Desenvolvimento de Sistemas (SENAI)**. 
+Desenvolvedor em formação através da graduação em **Análise e Desenvolvimento de Sistemas pela FATEC**, com sólida base técnica inicial construída no curso **Técnico em Desenvolvimento de Sistemas pelo SENAI**. 
 
-Busco oportunidade de estágio ou posições de nível júnior, onde possa aplicar meus conhecimentos em lógica de programação, desenvolvimento web e banco de dados, além de contribuir para o ciclo de desenvolvimento de softwares eficientes.
-
----
-
-### 🛠️ Competências Técnicas
-
-| Área | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Desenvolvimento Web (Frontend)** | HTML5, CSS3, JavaScript (ES6+) |
-| **Linguagens de Programação** | Python |
-| **Banco de Dados** | SQL (Modelagem, Consultas, DDL/DML) |
-| **Ferramentas / Outros** | Git, GitHub, VS Code |
+Focado em construir códigos limpos, escaláveis e eficientes. Busco oportunidades de **Estágio** ou posições **Júnior** nas áreas de desenvolvimento de software e banco de dados, onde possa aplicar minha bagagem técnica e evoluir junto à equipe.
 
 ---
 
-### 📂 Projetos em Destaque
+### 🛠️ Hard Skills
 
-> 💡 *Dica: Quando você criar repositórios de projetos legais da faculdade ou do técnico, linke-os aqui de forma resumida.*
-
-*   **[Nome do Projeto 1](link-do-repositorio)**: Breve descrição do projeto (ex: Sistema de gerenciamento de estoque feito em Python e SQL).
-*   **[Nome do Projeto 2](link-do-repositorio)**: Breve descrição do projeto (ex: Landing page responsiva utilizando HTML, CSS e JavaScript puro).
-
----
-
-### 📊 Atividade no GitHub
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=caiobastosmarques&show_icons=true&theme=default&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobastosmarques&layout=compact&theme=default" />
-</p>
-
----
-
-<p align="center">
-  <sub>Configurado por [Seu Nome] • Atualizado em 2026</sub>
-</p>
+```🚀 Desenvolvimento Frontend
+# HTML5       # CSS3       # JavaScript (ES6+)
