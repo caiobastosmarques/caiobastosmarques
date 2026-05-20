@@ -1,46 +1,58 @@
-# Olá, eu sou o Caio! 👋
+# [Seu Nome Completo]
 
-## 🎓 Sobre Mim
-- 🚀 Atualmente no **1º período de Análise e Desenvolvimento de Sistemas (ADS)**.
-- 🎓 Técnico formado em **Desenvolvimento de Sistemas (DS)**.
-- 💡 Buscando sempre evoluir, criar projetos práticos e consolidar minha base em programação.
-- 🌱 No momento, estou aprofundando meus conhecimentos em **Python** e arquitetura de **Banco de Dados**.
+<p align="left">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
+  Técnico em Desenvolvimento de Sistemas
+</p>
 
----
-
-## 🛠️ Minhas Tecnologias
-
-Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia de estudos:
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Dados
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 Minhas Estatísticas do GitHub
-
-<!-- ATENÇÃO: Substitua "seu-usuario" pelo seu nome de usuário real do GitHub nos links abaixo -->
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radial"/>
+<p align="left">
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🤝 Vamos nos conectar?
+### 🎯 Perfil Profissional
 
-Gosto de trocar ideias sobre tecnologia, projetos e estudos. Pode me chamar!
+Profissional em transição para o mercado de tecnologia através da graduação em **Análise e Desenvolvimento de Sistemas (IFSP/FIAP/Sua Faculdade)** e com base sólida prévia obtida no **Curso Técnico em Desenvolvimento de Sistemas**. 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedinLink]
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][EmailLink]
+Busco oportunidade de estágio ou posições de nível júnior, onde possa aplicar meus conhecimentos em lógica de programação, desenvolvimento web e banco de dados, além de contribuir para o ciclo de desenvolvimento de softwares eficientes.
 
-<!-- LINKS DE REDIRECIONAMENTO (Substitua pelos seus links) -->
-[LinkedinLink]: https://linkedin.com/in/seu-linkedin-aqui
-[EmailLink]: mailto:seu-email@gmail.com
+---
+
+### 🛠️ Competências Técnicas
+
+| Área | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Desenvolvimento Web (Frontend)** | HTML5, CSS3, JavaScript (ES6+) |
+| **Linguagens de Programação** | Python |
+| **Banco de Dados** | SQL (Modelagem, Consultas, DDL/DML) |
+| **Ferramentas / Outros** | Git, GitHub, VS Code |
+
+---
+
+### 📂 Projetos em Destaque
+
+> 💡 *Dica: Quando você criar repositórios de projetos legais da faculdade ou do técnico, linke-os aqui de forma resumida.*
+
+*   **[Nome do Projeto 1](link-do-repositorio)**: Breve descrição do projeto (ex: Sistema de gerenciamento de estoque feito em Python e SQL).
+*   **[Nome do Projeto 2](link-do-repositorio)**: Breve descrição do projeto (ex: Landing page responsiva utilizando HTML, CSS e JavaScript puro).
+
+---
+
+### 📊 Atividade no GitHub
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Configurado por [Seu Nome] • Atualizado em 2026</sub>
+</p>
