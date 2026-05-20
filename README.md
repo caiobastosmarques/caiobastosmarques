@@ -31,7 +31,7 @@ Abaixo estão as ferramentas e linguagens com as quais tive contato no ensino t�
 | Área | Tecnologias |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3 e JavaScript |
-| **Backend & Dados** | Python e Linguagem SQL |
+| **Backend & Dados** | Python, PHP e SQL |
 | **Ferramentas** | Git, GitHub e VS Code |
 
 ---
